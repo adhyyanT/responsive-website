@@ -1,5 +1,5 @@
 ### Showcase 
-https://showcase-responsive-website.herokuapp.com/
+https://showcase-a927c8.netlify.app/
 
 # Getting Started with Create React App
 
